@@ -1,0 +1,42 @@
+// Main Sass File
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+nav{
+  //position: relative;
+  background-color: #c6c6c6;
+  height: 60px;
+  ul{
+
+    //position: absolute;
+    //top: 50%;
+    //left: 50%;
+    //transform: translate(-50%,-50%);
+
+    li{
+      display: inline-block;
+      padding:20px 5px;
+
+      a{
+        height: 20px;
+        padding: 10px;
+        background-color: #ffffff;
+      }
+    }
+  }
+
+}
+
+#home-section{
+  padding-top: 20px;
+
+}
+
+.bsbutton{
+   border-radius: 5px;
+
+}
