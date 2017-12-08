@@ -21,3 +21,8 @@ npm start
 ```
 
 Files are compiled into /src
+
+
+## Bilder
+
+https://www.pexels.com/de/fotolizenz/
